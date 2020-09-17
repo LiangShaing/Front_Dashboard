@@ -1,0 +1,442 @@
+{
+    "transactions":[
+        {
+            "transaction_number": "AHAGB76541",
+            "transaction_type": "BFT",
+            "customer_id": "28825252",
+            "customer_name": "Lalaland. Co.Ltd.",
+            "currency": "--",
+            "amount": "--",
+            "application_date": "108/02/22",
+            "deal_date": "--",
+            "expired_date": "108/07/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室經辦審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB75388",
+            "transaction_type": "BFT",
+            "customer_id": "12345678",
+            "customer_name": "YOYOYO",
+            "currency": "--",
+            "amount": "--",
+            "application_date": "108/02/23",
+            "deal_date": "--",
+            "expired_date": "108/08/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室經辦審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHCGB54321",
+            "transaction_type": "BFT",
+            "customer_id": "34567890",
+            "customer_name": "WECARE",
+            "currency": "USD",
+            "amount": "5,000,000",
+            "application_date": "108/10/31",
+            "deal_date": "--",
+            "expired_date": "108/10/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB76543",
+            "transaction_type": "BFT",
+            "customer_id": "28825252",
+            "customer_name": "Lalaland. Co.Ltd.",
+            "currency": "EUR",
+            "amount": "4,000,000",
+            "application_date": "108/2/21",
+            "deal_date": "--",
+            "expired_date": "108/11/1",
+            "exchange_rate": "34.3100",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB75399",
+            "transaction_type": "BFT",
+            "customer_id": "12345679",
+            "customer_name": "PHONE",
+            "currency": "JPY",
+            "amount": "20,000,000",
+            "application_date": "108/2/24",
+            "deal_date": "--",
+            "expired_date": "109/1/2",
+            "exchange_rate": "28.8123",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11234",
+            "transaction_type": "BFT",
+            "customer_id": "28825252",
+            "customer_name": "Lalaland. Co.Ltd.",
+            "currency": "--",
+            "amount": "--",
+            "application_date": "108/02/22",
+            "deal_date": "--",
+            "expired_date": "108/07/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室經辦審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11235",
+            "transaction_type": "BFT",
+            "customer_id": "12345678",
+            "customer_name": "YOYOYO",
+            "currency": "--",
+            "amount": "--",
+            "application_date": "108/02/23",
+            "deal_date": "--",
+            "expired_date": "108/08/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室經辦審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11236",
+            "transaction_type": "BFT",
+            "customer_id": "34567890",
+            "customer_name": "WECARE",
+            "currency": "USD",
+            "amount": "5,000,000",
+            "application_date": "108/10/31",
+            "deal_date": "--",
+            "expired_date": "108/10/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11237",
+            "transaction_type": "BFT",
+            "customer_id": "28825252",
+            "customer_name": "Lalaland. Co.Ltd.",
+            "currency": "EUR",
+            "amount": "4,000,000",
+            "application_date": "108/2/21",
+            "deal_date": "--",
+            "expired_date": "108/11/1",
+            "exchange_rate": "34.3100",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11238",
+            "transaction_type": "BFT",
+            "customer_id": "12345679",
+            "customer_name": "PHONE",
+            "currency": "JPY",
+            "amount": "20,000,000",
+            "application_date": "108/2/24",
+            "deal_date": "--",
+            "expired_date": "109/1/2",
+            "exchange_rate": "28.8123",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11239",
+            "transaction_type": "BFT",
+            "customer_id": "28825252",
+            "customer_name": "Lalaland. Co.Ltd.",
+            "currency": "--",
+            "amount": "--",
+            "application_date": "108/02/22",
+            "deal_date": "--",
+            "expired_date": "108/07/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室經辦審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11240",
+            "transaction_type": "BFT",
+            "customer_id": "12345678",
+            "customer_name": "YOYOYO",
+            "currency": "--",
+            "amount": "--",
+            "application_date": "108/02/23",
+            "deal_date": "--",
+            "expired_date": "108/08/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室經辦審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11241",
+            "transaction_type": "BFT",
+            "customer_id": "34567890",
+            "customer_name": "WECARE",
+            "currency": "USD",
+            "amount": "5,000,000",
+            "application_date": "108/10/31",
+            "deal_date": "--",
+            "expired_date": "108/10/31",
+            "exchange_rate": "29.0000",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11242",
+            "transaction_type": "BFT",
+            "customer_id": "28825252",
+            "customer_name": "Lalaland. Co.Ltd.",
+            "currency": "EUR",
+            "amount": "4,000,000",
+            "application_date": "108/2/21",
+            "deal_date": "--",
+            "expired_date": "108/11/1",
+            "exchange_rate": "34.3100",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "AHAGB11243",
+            "transaction_type": "BFT",
+            "customer_id": "12345679",
+            "customer_name": "PHONE",
+            "currency": "JPY",
+            "amount": "20,000,000",
+            "application_date": "108/2/24",
+            "deal_date": "--",
+            "expired_date": "109/1/2",
+            "exchange_rate": "28.8123",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        },
+        {
+            "transaction_number": "xxxxxxxxxx",
+            "transaction_type": "BFT",
+            "customer_id": "12345679",
+            "customer_name": "PHONE",
+            "currency": "JPY",
+            "amount": "20,000,000",
+            "application_date": "108/2/24",
+            "deal_date": "--",
+            "expired_date": "109/1/2",
+            "exchange_rate": "28.8123",
+            "status": "交易室主管審核階段",
+            "bank": "中國信託銀行",
+            "content": "明細"    
+        }                 
+    ],
+    "blocktrades":[
+        {
+            "serial": "1",
+            "bank": "CTBC",
+            "transaction_number": "AHAGB76541",
+            "transaction_type": "BFT",
+            "company": "Lalaland. Co.Ltd.",
+            "currency": "TWD/USD",
+            "amount": "5,000,000",
+            "swap_point": "",
+            "exchange_rate": "29.0000",
+            "expired_date": "108/07/31"
+        },
+        {
+            "serial": "2",
+            "bank": "CTBC",
+            "transaction_number": "AHAGB75399",
+            "transaction_type": "BFT",
+            "company": "Likelike...",
+            "currency": "TWD/USD",
+            "amount": "3,000,000",
+            "swap_point": "",
+            "exchange_rate": "28.8123",
+            "expired_date": "108/8/30"
+        }      
+    ],
+    "abnormals":[
+        {
+          "serial": "1",
+          "transaction_number": "xxxxxxxxxx",
+          "taxid": "2882XXXX",
+          "company": "Lalaland. Co.Ltd.",
+          "currency": "TWD/USD",
+          "amount": "5,000,000",
+          "deal_date": "108/2/22",
+          "deviant_remark": ["顧客於同銀行出現","重複invoice number"]
+        },
+        {
+          "serial": "2",
+          "transaction_number": "xxxxxxxxxx",
+          "taxid": "9114XXXX",
+          "company": "Future Co. Ltd.",
+          "currency": "TWD/USD",
+          "amount": "3,000,000",
+          "deal_date": "108/2/22",
+          "deviant_remark": ["顧客於同銀行出現","重複invoice number"]
+        },
+        {
+          "serial": "3",
+          "transaction_number": "xxxxxxxxxx",
+          "taxid": "0081XXXX",
+          "company": "City Co. Ltd.",
+          "currency": "TWD/JPY",
+          "amount": "50,000,000",
+          "deal_date": "108/2/22",
+          "deviant_remark": ["顧客採用押匯文件申請交易"]
+        },
+        {
+          "serial": "4",
+          "transaction_number": "xxxxxxxxxx",
+          "taxid": "2214XXXX",
+          "company": "Promising Co. Ltd.",
+          "currency": "TWD/USD",
+          "amount": "3,000,000",
+          "deal_date": "108/2/22",
+          "deviant_remark": ["顧客採用投審函申請交易"]
+        },
+        {
+            "serial": "5",
+            "transaction_number": "xxxxxxxxxx",
+            "taxid": "3784XXXX",
+            "company": "Ironman Co. Ltd.",
+            "currency": "TWD/USD",
+            "amount": "7,000,000",
+            "deal_date": "108/2/22",
+            "deviant_remark": ["顧客採用工程款合約申請交易"]
+        }              
+      ],
+    "txnDocments": [
+        {
+            "serial": "1",
+            "transaction_number": "AHAGB76541",
+            "transaction_type": "Forward",
+            "doc_type": "Invoice List",
+            "authorized_target": "未授權",
+            "upload_time": "2019/02/22 13:47PM",
+            "dialog": false
+        },
+        {
+            "serial": "2",
+            "transaction_number": "AHAGB76542",
+            "transaction_type": "Forward",
+            "doc_type": "Invoice",
+            "authorized_target": "中國信託",
+            "upload_time": "2019/02/22 14:12PM",
+            "dialog": false
+        }        
+    ],
+    "historys":[
+        {
+            "time": "108/04/01 09:30AM",
+            "role": "顧客經辦",
+            "status": "送出交易文件",
+            "description": "",
+            "content": false
+        },
+        {
+            "time": "108/04/01 09:35AM",
+            "role": "顧客主管",
+            "status": "核准交易文件",
+            "description": "",
+            "content": true
+        },
+        {
+            "time": "108/04/01 12:05PM",
+            "role": "中國信託銀行",
+            "status": "送出交易文件",
+            "description": "審核意見",
+            "content": true
+        },
+        {
+            "time": "108/04/01 12:25PM",
+            "role": "中國信託銀行",
+            "status": "核准交易文件",
+            "description": "審核意見",
+            "content": false
+        },  
+        {
+            "time": "108/04/01 13:50PM",
+            "role": "中國信託銀行",
+            "status": "送出交易文件",
+            "description": "審核意見",
+            "content": false
+        },  
+        {
+            "time": "108/04/01 14:50PM",
+            "role": "中國信託銀行",
+            "status": "核准交易文件",
+            "description": "審核意見",
+            "content": false
+        }, 
+        {
+            "time": "108/04/01 13:50PM",
+            "role": "中國信託銀行",
+            "status": "退回顧客",
+            "description": "退件原因",
+            "content": false
+        },
+        {
+            "time": "108/04/01 14:00PM",
+            "role": "顧客經辦",
+            "status": "送出交易文件",
+            "description": "",
+            "content": false
+        },
+        {
+            "time": "108/04/01 14:21PM",
+            "role": "顧客經辦",
+            "status": "核准交易文件",
+            "description": "",
+            "content": true
+        }                                          
+    ],
+
+    "txnAppls": [ {
+        "transaction_number" : "AHAGB76541",
+        "taxId": "28825252",
+        "company" : "Lalaland Co. Ltd.", 
+        "applyDte" : "2019-08-19",
+        "settlement" : "0",
+        "expiredDte" : "2019-08-19",
+        "nature" : "T",
+        "bank": "CTBC",
+        "currency": "USD",
+        "exchangeRte": "29.0000",
+        "maxTxnAmount": "5,000,000"
+      }
+    ],
+
+    "txnHistorys": [ {
+        "transaction_number" : "AHAGB76541",
+        "transaction_type" : "Forward",
+        "taxId": "28825252",            
+        "company" : "Lalaland Co. Ltd.", 
+        "settlement" : "0",
+        "applyDte" : "2019-02-22",
+        "dealDte" : "2019-02-22",
+        "expiredDte" : "2019-07-31",
+        "nature" : "T",
+        "bank": "CTBC",
+        "currency": "USD",
+        "exchangeRte": "29.0000",
+        "amount": "5,000,000",
+        "status": "銀行審核階段"        
+      }
+    ]
+
+
+}

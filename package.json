@@ -1,0 +1,44 @@
+{
+  "name": "nuxt-material-admin",
+  "version": "1.0.1",
+  "description": "vue-material-admin integration with Nuxt.js",
+  "author": "AllenLiang",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env DEPLOY_ENV=local nuxt",
+    "build": "cross-env DEPLOY_ENV=dev nuxt build",
+    "start": "nuxt start",
+    "generate": "cross-env DEPLOY_ENV=sit DEPLOY_TARGET=dist nuxt generate",
+    "generate-dev": "cross-env DEPLOY_ENV=dev nuxt generate",
+    "generate-sit": "cross-env DEPLOY_ENV=sit nuxt generate",
+    "generate-test": "cross-env DEPLOY_ENV=test nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.17.2",
+    "ckeditor4-vue": "^0.2.0",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.15",
+    "nuxt": "^2.12.2",
+    "pdfjs-dist": "^2.3.200",
+    "roboto-fontface": "*",
+    "vue": "^2.6.11",
+    "vue-material": "^1.0.0-beta-11",
+    "vuetify": "^2.2.21",
+    "vuetify-loader": "^1.4.3"
+  },
+  "devDependencies": {
+    "@mdi/font": "^3.9.97",
+    "cross-env": "^5.2.1",
+    "css-loader": "^1.0.1",
+    "minimist": "^1.2.5",
+    "nodemon": "^2.0.3",
+    "sass": "^1.26.3",
+    "sass-loader": "^7.3.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

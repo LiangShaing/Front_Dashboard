@@ -1,0 +1,150 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "member": [
+    {
+      "member_id": 1,
+      "member_level": "god",
+      "member_name": "Eric"
+    },
+    {
+      "member_id": 2,
+      "member_level": "member",
+      "member_name": "Tyson"
+    }
+  ],
+  "memberDetail": [
+    {
+      "userId": "1",
+      "member": {
+        "name": "小賴",
+        "email": "c123@gmail.com",
+        "addUser": "admin",
+        "upUser": "admin",
+        "phone": "0911211466",
+        "job": "學生",
+        "addDate": "2020-01-19",
+        "upDate": "2020-01-19",
+        "roleData": [
+          {
+            "domain": "L",
+            "account": "a123456",
+            "userlvl": "1",
+            "usersts": "A",
+            "userrole": "L",
+            "userinfo": ""
+          },
+          {
+            "domain": "A",
+            "account": "a787989",
+            "userlvl": "2",
+            "usersts": "A",
+            "userrole": "L",
+            "userinfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "userId": "2",
+      "member": {
+        "name": "熊",
+        "email": "7788@gmail.com",
+        "addUser": "admin",
+        "upUser": "admin",
+        "phone": "78787878",
+        "job": "老師",
+        "addDate": "2020-01-18",
+        "upDate": "2020-01-18",
+        "roleData": [
+          {
+            "domain": "L",
+            "account": "a7788",
+            "userlvl": "3",
+            "usersts": "A",
+            "userrole": "L",
+            "userinfo": ""
+          }
+        ]
+      }
+    }
+  ],
+  "login": [
+    {
+      "username": "123",
+      "stats": 1,
+      "member":{
+         "name":"枕頭",
+         "sex":"女",
+         "pic":"/avatar/man_4.jpg"
+      }
+    },
+    {
+      "username": "456",
+      "stats": 1,
+      "member":{
+        "name":"吉吉",
+        "sex":"男",
+        "pic":"/avatar/man_1.jpg"
+     }
+    }
+  ],
+  "drowpDownSelect": {
+    "userlvl": [
+      {
+        "text": "1",
+        "value": "1"
+      },
+      {
+        "text": "2",
+        "value": "2"
+      },
+      {
+        "text": "3",
+        "value": "3"
+      }
+    ],
+    "usersts": [
+      {
+        "text": "啟用",
+        "value": "A"
+      },
+      {
+        "text": "停用",
+        "value": "S"
+      }
+    ],
+    "userrole": [
+      {
+        "text": "管理者",
+        "value": "L"
+      },
+      {
+        "text": "一般使用者",
+        "value": "A"
+      }
+    ],
+    "domain": [
+      {
+        "text": "本機",
+        "value": "L"
+      },
+      {
+        "text": "AP",
+        "value": "A"
+      }
+    ]
+  }
+}

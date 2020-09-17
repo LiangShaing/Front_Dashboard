@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: yuantalife-cms-ui
+  namespace: yuanta
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: yuantalife-cms-ui
+  template:
+    metadata:
+      labels:
+        app: yuantalife-cms-ui
+    spec:
+      containers:
+        - name: yuantalife-cms-ui
+          image: yuantalife-cms-ui/dockerize-vuejs-app
+          imagePullPolicy: "IfNotPresent"
+          ports:
+            - containerPort: 8080

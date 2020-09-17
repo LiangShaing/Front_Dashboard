@@ -1,0 +1,22 @@
+body div{
+  font-family: "Microsoft JhengHei", sans-serif !important;
+  font-weight: initial;
+  line-height: normal;
+  -webkit-font-smoothing: antialiased;
+  }
+
+  .cursor-point{
+    cursor:pointer
+  }
+
+  @media (max-width: 376px) {
+    .main-content {
+      margin-top: 56px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .main-content {
+      margin-top: 64px;
+    }
+  }
